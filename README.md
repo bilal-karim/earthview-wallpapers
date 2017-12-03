@@ -1,7 +1,9 @@
 Earth View Wallpapers
 ====================
 
-Archive of all images from Earth View by Google Maps.
+Archive of all images from Earth View by Google Maps from 2014.
+
+For a more up-to-date collection, visit [Gsite](https://www.gtricks.com/earth/download-all-google-earth-view-wallpapers).
 
 ![al_ahsa-saudi_arabia-7](https://cloud.githubusercontent.com/assets/4129613/5349181/255ed80e-7ef4-11e4-8571-0068ba8f8106.jpg)
 ![al_ahsa-saudi_arabia-68](https://cloud.githubusercontent.com/assets/4129613/5349180/255b4d4c-7ef4-11e4-9fe2-c46bbd915228.jpg)
